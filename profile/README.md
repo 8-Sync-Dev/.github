@@ -55,10 +55,7 @@ Our core focus revolves around:
 
 <br />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=8-Sync-Dev&show_icons=true&title_color=FF7A00&icon_color=FF7A00&text_color=a3a3a3&bg_color=0D1117&hide_border=true&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=8-Sync-Dev&ring=FF7A00&fire=FF7A00&currStreakNum=FF7A00&sideNums=a3a3a3&sideLabels=a3a3a3&dates=a3a3a3&bg_color=0D1117&hide_border=true" alt="GitHub Streak" />
-</div>
+
 
 <div align="center">
   <br />

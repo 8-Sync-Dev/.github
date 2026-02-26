@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/8-Sync-Dev/.github/main/assets/banner_v3.gif" onerror="this.src='https://i.imgur.com/8bA7lJ9.gif'" alt="8 Sync Dev Banner" width="100%" style="border-radius: 15px;" />
+  <img src="banner.svg" alt="8 Sync Dev Banner" width="100%" style="border-radius: 15px;" />
 </div>
 
 <div align="center">
@@ -48,7 +48,7 @@ Our core focus revolves around:
 ### 🚀 Our Tech Orbit
 
 <div align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=py,ts,cpp,java,rs,solidity,react,nextjs,tailwind,nodejs,docker,aws" alt="Tech Stack" />
   </a>
 </div>

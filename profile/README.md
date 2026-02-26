@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2000&auto=format&fit=crop" alt="8 Sync Dev Banner" width="100%" style="border-radius: 15px; border: 2px solid #FF7A00;" />
+  <img src="https://raw.githubusercontent.com/8-Sync-Dev/.github/main/assets/banner_v3.gif" onerror="this.src='https://i.imgur.com/8bA7lJ9.gif'" alt="8 Sync Dev Banner" width="100%" style="border-radius: 15px;" />
 </div>
 
 <div align="center">

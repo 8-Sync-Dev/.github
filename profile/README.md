@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1634017839464-5c339ebe3cb4?q=80&w=2000&auto=format&fit=crop" alt="8 Sync Dev Banner" width="100%" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(255, 122, 0, 0.2);" />
+  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2000&auto=format&fit=crop" alt="8 Sync Dev Banner" width="100%" style="border-radius: 15px; border: 2px solid #FF7A00;" />
 </div>
 
 <div align="center">
@@ -8,10 +8,10 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AI_Agents-FF7A00?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/Web3_Blockchain-FF7A00?style=for-the-badge&logo=web3.js&logoColor=white&labelColor=0D1117" alt="Web3" />
-  <img src="https://img.shields.io/badge/3D_Game_Dev-FF7A00?style=for-the-badge&logo=unity&logoColor=white&labelColor=0D1117" alt="3D Game Dev" />
-  <img src="https://img.shields.io/badge/Full_Stack-FF7A00?style=for-the-badge&logo=react&logoColor=white&labelColor=0D1117" alt="Full Stack" />
+  <img src="https://img.shields.io/badge/🤖_AI_Agents-FF7A00?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/⛓️_Web3_Blockchain-FF7A00?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Web3" />
+  <img src="https://img.shields.io/badge/🕹️_3D_Game_Dev-FF7A00?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="3D Game Dev" />
+  <img src="https://img.shields.io/badge/🌐_Full_Stack-FF7A00?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Full Stack" />
 </div>
 
 <br />
@@ -48,7 +48,9 @@ Our core focus revolves around:
 ### 🚀 Our Tech Orbit
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,ts,cpp,java,rs,solidity,react,nextjs,tailwind,nodejs,docker,aws" alt="Tech Stack" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,ts,cpp,java,rs,solidity,react,nextjs,tailwind,nodejs,docker,aws" alt="Tech Stack" />
+  </a>
 </div>
 
 <br />

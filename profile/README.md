@@ -57,6 +57,30 @@ Our core focus revolves around:
 
 
 
+
+---
+
+### 💖 Support Our Open-Source Ecosystem
+
+If you find our open-source tools, system design articles, or practice platforms valuable, consider supporting our journey on **GitHub Sponsors** to help cover our cloud infrastructure and keep tools completely free:
+
+<div align="center">
+  <a href="https://github.com/sponsors/8-Sync-Dev" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor_8_Sync_Dev-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=0D1117" alt="Sponsor on GitHub" />
+  </a>
+</div>
+
+<br />
+
+| Tier | Price | Perks & Recognition |
+| :--- | :--- | :--- |
+| ☕ **Coffee Supporter** | **$3 / mo** | Sponsor badge on GitHub profile. Fuel server costs for core dev tools. |
+| 🚀 **Active Backer** | **$10 / mo** | Name listed in `Supporters.md` across our open-source repos + early access to tools & release notes. |
+| 🧠 **Pro Engineer** | **$25 / mo** | Private discussions invite + priority review on feature requests and architecture feedback. |
+| 🏢 **Bronze / Tool Sponsor** | **$100 / mo** | Company logo on main READMEs + news.8syncdev.com sponsor slot + dedicated shoutout. |
+| 💎 **Silver / Enterprise Partner** | **$300 / mo** | Large logo in README headers + prominent site visibility + monthly 1-on-1 architecture consulting. |
+
+
 <div align="center">
   <br />
   <i>"Code the future, one sync at a time. Let's build the Matrix."</i>

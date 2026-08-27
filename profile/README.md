@@ -1,87 +1,33 @@
 <div align="center">
-  <img src="banner.svg" alt="8 Sync Dev Banner" width="100%" style="border-radius: 15px;" />
+  <img src="banner.svg" alt="8 Sync Dev" width="100%" />
 </div>
 
-<div align="center">
-  <br />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF7A00&center=true&vCenter=true&width=800&lines=Empowering+the+Future+of+Technology;Pioneering+AI,+Web3,+and+3D+Game+Dev;Building+Next-Gen+Software+Engineers" alt="Typing SVG" />
-</div>
+<p align="center">
+  <strong>NVIDIA Inception</strong> · AI developer education and tools · Made in Vietnam
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/🤖_AI_Agents-FF7A00?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/⛓️_Web3_Blockchain-FF7A00?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Web3" />
-  <img src="https://img.shields.io/badge/🕹️_3D_Game_Dev-FF7A00?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="3D Game Dev" />
-  <img src="https://img.shields.io/badge/🌐_Full_Stack-FF7A00?style=for-the-badge&logoColor=white&labelColor=0D1117" alt="Full Stack" />
-</div>
-
-<br />
+<p align="center">
+  <a href="https://8syncdev.com">8syncdev.com</a> ·
+  <a href="https://www.youtube.com/@Dev8Sync">YouTube @Dev8Sync</a> ·
+  <a href="https://github.com/8syncdev">@8syncdev</a>
+</p>
 
 ---
 
-### 🔶 About **8 Sync Dev**
+**8 Sync Dev** teaches people to understand code — Learn → Breach → Retain — and ships the tools we wished we had as students.
 
-Welcome to the nexus of next-generation technology education and development. **8 Sync Dev** is a community-driven organization bridging the gap between traditional programming and the frontier of the decentralized, AI-driven internet. 
+| Product | What it is |
+| --- | --- |
+| [8syncdev.com](https://8syncdev.com) | Brand hub |
+| [coding.8syncdev.com](https://coding.8syncdev.com) | DSA practice (The Breach) |
+| [ZUS](https://zus-web.vercel.app/) | 22 MB AI IDE (Tauri 2 + Rust) |
+| [news.8syncdev.com](https://news.8syncdev.com) | AI / engineering news |
 
-Our core focus revolves around:
-- 🧠 **Artificial Intelligence**: Crafting sophisticated LLM applications, RAG pipelines, and autonomous AI Agentic workflows using modern frameworks like LangChain & Ollama.
-- 🕹️ **3D & Game Engines**: Bringing immersive web experiences to life with advanced rendering techniques and high-performance game logic.
-- ⛓️ **Decentralized Systems (Web3)**: Engineering robust Smart Contracts, DeFi protocols, and decentralized architectures using Solidity & Foundry.
+Founder: [Nguyễn Phương Anh Tú](https://github.com/8syncdev) (Alex). Org accepted into **NVIDIA Inception** on 2026-08-19.
 
----
-
-### 🌐 Connect & Collaborate
-
-<div align="center">
-  <a href="https://8syncdev.com" target="_blank">
-    <img src="https://img.shields.io/badge/Website-8syncdev.com-FF7A00?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0D1117" alt="Website" />
-  </a>
-  <a href="https://www.youtube.com/@8SyncDev" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-8%20Sync%20Dev-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=0D1117" alt="YouTube" />
-  </a>
-  <a href="https://www.facebook.com/8syncdev" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-8%20Sync%20Dev-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D1117" alt="Facebook" />
-  </a>
-</div>
-
----
-
-### 🚀 Our Tech Orbit
-
-<div align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=py,ts,cpp,java,rs,solidity,react,nextjs,tailwind,nodejs,docker,aws" alt="Tech Stack" />
-  </a>
-</div>
-
-<br />
-
-
-
-
----
-
-### 💖 Support Our Open-Source Ecosystem
-
-If you find our open-source tools, system design articles, or practice platforms valuable, consider supporting our journey on **GitHub Sponsors** to help cover our cloud infrastructure and keep tools completely free:
-
-<div align="center">
-  <a href="https://github.com/sponsors/8-Sync-Dev" target="_blank">
-    <img src="https://img.shields.io/badge/Sponsor_8_Sync_Dev-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white&labelColor=0D1117" alt="Sponsor on GitHub" />
-  </a>
-</div>
-
-<br />
-
-| Tier | Price | Perks & Recognition |
-| :--- | :--- | :--- |
-| ☕ **Coffee Supporter** | **$3 / mo** | Sponsor badge on GitHub profile. Fuel server costs for core dev tools. |
-| 🚀 **Active Backer** | **$10 / mo** | Name listed in `Supporters.md` across our open-source repos + early access to tools & release notes. |
-| 🧠 **Pro Engineer** | **$25 / mo** | Private discussions invite + priority review on feature requests and architecture feedback. |
-| 🏢 **Bronze / Tool Sponsor** | **$100 / mo** | Company logo on main READMEs + news.8syncdev.com sponsor slot + dedicated shoutout. |
-| 💎 **Silver / Enterprise Partner** | **$300 / mo** | Large logo in README headers + prominent site visibility + monthly 1-on-1 architecture consulting. |
-
-
-<div align="center">
-  <br />
-  <i>"Code the future, one sync at a time. Let's build the Matrix."</i>
-</div>
+<p align="center">
+  <a href="https://8syncdev.com"><img src="https://img.shields.io/badge/Website-8syncdev.com-111111?style=flat-square" alt="Website" /></a>
+  <a href="https://www.youtube.com/@Dev8Sync"><img src="https://img.shields.io/badge/YouTube-@Dev8Sync-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.tiktok.com/@8syncdev"><img src="https://img.shields.io/badge/TikTok-@8syncdev-000000?style=flat-square&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  <a href="https://linkedin.com/in/8syncdev"><img src="https://img.shields.io/badge/LinkedIn-8syncdev-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>

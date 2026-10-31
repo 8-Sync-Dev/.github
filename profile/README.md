@@ -2,7 +2,7 @@
   <img src="banner.svg" alt="8 Sync — AI developer education and tools, made in Vietnam" width="100%" />
 
   <p>
-    <a href="https://8syncdev.com"><img src="https://img.shields.io/badge/8syncdev.com-4F7CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+    <a href="https://8syncdev.com"><img src="https://img.shields.io/badge/8syncdev.com-4CAF0A?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
     <a href="https://www.youtube.com/@Dev8Sync"><img src="https://img.shields.io/badge/YouTube-Dev8Sync-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
     <a href="https://www.tiktok.com/@8syncdev"><img src="https://img.shields.io/badge/TikTok-@8syncdev-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
     <a href="https://facebook.com/8syncdev"><img src="https://img.shields.io/badge/Facebook-8syncdev-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
@@ -59,10 +59,10 @@
 
 | Repo | | |
 | --- | --- | --- |
-| [**8sync**](https://github.com/8-Sync-Dev/8sync) | Claude Code on autopilot, with rails | ![stars](https://img.shields.io/github/stars/8-Sync-Dev/8sync?style=flat-square&color=4F7CFF) |
-| [**flash-term**](https://github.com/8-Sync-Dev/flash-term) | Windows 11 terminal setup: WezTerm, CLI tools, dev runtimes, local GGUF server | ![stars](https://img.shields.io/github/stars/8-Sync-Dev/flash-term?style=flat-square&color=4F7CFF) |
-| [**claude-desktop-linux**](https://github.com/8-Sync-Dev/claude-desktop-linux) | One-command installer for Claude Desktop on Linux | ![stars](https://img.shields.io/github/stars/8-Sync-Dev/claude-desktop-linux?style=flat-square&color=4F7CFF) |
-| [**zus-releases**](https://github.com/8-Sync-Dev/zus-releases) · [**scoop-zus**](https://github.com/8-Sync-Dev/scoop-zus) | Signed ZUS installers, and `scoop install zus` on Windows | ![release](https://img.shields.io/github/v/release/8-Sync-Dev/zus-releases?style=flat-square&color=22D3EE&label=ZUS) |
+| [**8sync**](https://github.com/8-Sync-Dev/8sync) | Claude Code on autopilot, with rails | ![stars](https://img.shields.io/github/stars/8-Sync-Dev/8sync?style=flat-square&color=017FFD) |
+| [**flash-term**](https://github.com/8-Sync-Dev/flash-term) | Windows 11 terminal setup: WezTerm, CLI tools, dev runtimes, local GGUF server | ![stars](https://img.shields.io/github/stars/8-Sync-Dev/flash-term?style=flat-square&color=017FFD) |
+| [**claude-desktop-linux**](https://github.com/8-Sync-Dev/claude-desktop-linux) | One-command installer for Claude Desktop on Linux | ![stars](https://img.shields.io/github/stars/8-Sync-Dev/claude-desktop-linux?style=flat-square&color=017FFD) |
+| [**zus-releases**](https://github.com/8-Sync-Dev/zus-releases) · [**scoop-zus**](https://github.com/8-Sync-Dev/scoop-zus) | Signed ZUS installers, and `scoop install zus` on Windows | ![release](https://img.shields.io/github/v/release/8-Sync-Dev/zus-releases?style=flat-square&color=4CAF0A&label=ZUS) |
 
 ## 🧰 How we build
 
